@@ -139,5 +139,3 @@ Messages in last 10s: 5
 * Add **error handling and retries** for producers
 
 
-
-Would you like me to format this README for **GitHub visuals** (with badges, emojis, and collapsible setup sections)? I can make it look like a polished portfolio project.
